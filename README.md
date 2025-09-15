@@ -1,4 +1,4 @@
-### Hi there, I'm Omri 👋
+### Hi there, I'm Omri
 
 I'm a Software Engineer passionate about building and shipping products that people love to use. I enjoy the entire process of taking an idea from concept to a live, scalable application.
 

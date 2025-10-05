@@ -9,7 +9,7 @@ I'm a Software Engineer passionate about building and shipping products that peo
 <table>
   <tr>
     <td>
-      <a href="https://trooped.dev/quickbars">
+      <a href="https:/quickbars.app">
         <img src="icon.svg" alt="QuickBars App Screenshot" width="300"/>
       </a>
     </td>
@@ -35,4 +35,4 @@ I'm a Software Engineer passionate about building and shipping products that peo
 | Python            | SQLite Database Management      | UI/UX Design Principles   | Product Management                |
 | C / C++           | Custom Network Protocols        | Android Accessibility API |                                   |
 
-📫 **How to reach me:** You can connect with me on [LinkedIn](https://www.linkedin.com/in/omri-peretz-cs/) or check out my portfolio at [trooped.dev](https://trooped.dev).
+📫 **How to reach me:** You can connect with me on [LinkedIn](https://www.linkedin.com/in/omri-peretz-cs/) or check out my portfolio at [omriperetz.dev](https://omriperetz.dev).

@@ -9,7 +9,7 @@ I'm a Software Engineer passionate about building and shipping products that peo
 <table>
   <tr>
     <td>
-      <a href="https:/quickbars.app">
+      <a href="https://quickbars.app">
         <img src="icon.svg" alt="QuickBars App Screenshot" width="300"/>
       </a>
     </td>

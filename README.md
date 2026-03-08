@@ -14,11 +14,11 @@ I'm a Software Engineer passionate about building and shipping products that peo
       </a>
     </td>
     <td>
-      <p>My flagship project is <strong>QuickBars for Home Assistant</strong>, an Android TV application I built from scratch for the Home Assistant community. It provides users with an elegant and intuitive way to control their smart home devices directly from their TV.</p>
+      <p>My flagship project is <strong>QuickBars for Home Assistant</strong>, an Android TV application I built from scratch for the Home Assistant community. It provides users with an elegant and intuitive way to control their smart home devices directly from their TV. Check out the [official GitHub repository](https://github.com/Trooped/QuickBars)</p>
       <ul>
         <li>✅ Achieved over <strong>16,000 downloads</strong> and <strong>1,200+ paying customers</strong>.</li>
         <li>✅ Built with a modern tech stack including Kotlin & Jetpack Compose.</li>
-        <li>✅ Available now on the <a href="https://play.google.com/store/apps/details?id=dev.trooped.tvquickbars&pcampaignid=web_share">Google Play Store</a>.</li>
+        <li>✅ Available on the <a href="https://play.google.com/store/apps/details?id=dev.trooped.tvquickbars&pcampaignid=web_share">Google Play Store</a>.</li>
       </ul>
     </td>
   </tr>
